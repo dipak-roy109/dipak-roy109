@@ -1,4 +1,4 @@
-# Hi, I'm Imran 👋 It's nice to Meet You!
+# Hi, I'm Dipak 👋 It's nice to Meet You!
 
   <!-- <a href="https://github.com/imranxyz?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/imranxyz?color=green&logo=github">

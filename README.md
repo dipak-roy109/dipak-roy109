@@ -14,7 +14,7 @@
 - 🌍 Mostly active within the **Python Community**
 - 🌱 Improving Myself with **Django, Django Rest Framework, React**
 - 💬 Ping me about **Python**
-- 📫 Reach me: imranzdev@gmail.com
+- 📫 Reach me: rdipak109@gmail.com
 - 📝 
 
 ## My Current Stack
@@ -69,7 +69,7 @@
 ## Connect With Me
 
 <p left="center">
-<a href="https://twitter.com/imrandev">
+<a href="https://twitter.com/@roy527947">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
 <a href="https://www.linkedin.com/in/imran-potter/">

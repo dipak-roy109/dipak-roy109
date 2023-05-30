@@ -27,8 +27,8 @@
 
 <b>⚡ GitHub Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imranxyz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranxyz&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dipak-roy109&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipak-roy109&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <b>&#128200; Profile</b>

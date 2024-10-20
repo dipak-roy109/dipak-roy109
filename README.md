@@ -10,7 +10,7 @@
 ## About me
 
 - 🏢 Actively Looking for Opportunities in Software Industry
-- ⚙️ Use daily: `python`, `django`, 'git', '&', 'github'
+- ⚙️ Use daily: `python`, `django`, `git & github`
 - 🌍 Mostly active within the **Python Community**
 - 🌱 Improving Myself with **Django, Django Rest Framework, React**
 - 💬 Ping me about **Python**
